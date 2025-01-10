@@ -90,9 +90,3 @@ Output: `"The future of AI is bright with endless possibilities for innovation a
 
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to add specific code snippets or modify any section!
