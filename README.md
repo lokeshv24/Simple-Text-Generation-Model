@@ -44,7 +44,7 @@ The goal of this project is to build a text generation model that learns to gene
 ### Key Steps
 1. **Dataset Preparation**:
    - Load and preprocess a text dataset (e.g., news articles, books, or custom data).
-   - Tokenize text using a pretrained tokenizer (e.g., T5Tokenizer, GPTTokenizer).
+   - Tokenize text using a pretrained tokenizer (e.g.GPTTokenizer).
 
 2. **Model Architecture**:
    - Use a transformer model (e.g., T5, GPT-2) pretrained on a large corpus, fine-tuned for text generation.
@@ -79,14 +79,7 @@ The goal of this project is to build a text generation model that learns to gene
 - **Model Efficiency**: Use quantization or distillation to improve inference time.  
 - **Advanced Metrics**: Integrate METEOR, CIDEr, or other relevant evaluation metrics.
 
----
 
-## Usage
-
-### Training the Model
-Run the script to train the model:
-```bash
-python train.py --dataset "path/to/dataset" --model "T5-small"
 ```
 
 ### Generating Text
