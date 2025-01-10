@@ -82,11 +82,7 @@ The goal of this project is to build a text generation model that learns to gene
 
 ```
 
-### Generating Text
-Generate text using the trained model:
-```bash
-python generate.py --input "Your input text here"
-```
+
 
 ### Example Output
 Input: `"The future of AI is"`  
